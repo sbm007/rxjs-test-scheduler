@@ -9,6 +9,7 @@
       "email": "sbm007@gmail.com"
     }
   ],
+  "license": "GPL-3.0",
   "main": "client/app/__mocks__/TestScheduler.ts",
   "scripts": {
     "build": "gulp build",
